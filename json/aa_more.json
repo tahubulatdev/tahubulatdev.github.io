@@ -1,0 +1,215 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More Apps",
+      "image":"https://jamurkuping.github.io/image/semua2.webp",
+      "link":"https://play.google.com/store/apps/developer?id=Jamur+Kuping"
+    },
+    {
+      "id":11,
+      "title":"Jimin BTS",
+      "image":"https://jamurkuping.github.io/image/btsjimin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjimin"
+    },
+    {
+      "id":12,
+      "title":"JHope BTS",
+      "image":"https://jamurkuping.github.io/image/btsjhope.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjhope"
+    },
+    {
+      "id":13,
+      "title":"Jin BTS",
+      "image":"https://jamurkuping.github.io/image/btsjin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjin"
+    },
+    {
+      "id":14,
+      "title":"RM BTS",
+      "image":"https://jamurkuping.github.io/image/btsrapmonster.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsrapmonster"
+    },
+    {
+      "id":15,
+      "title":"Suga BTS",
+      "image":"https://jamurkuping.github.io/image/btssuga.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btssuga"
+    },
+    {
+      "id":16,
+      "title":"Jungkook BTS",
+      "image":"https://jamurkuping.github.io/image/btsjungkook.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjungkook"
+    },
+    {
+      "id":17,
+      "title":"V BTS",
+      "image":"https://jamurkuping.github.io/image/btstaehyung.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btstaehyung"
+    },
+
+
+
+
+
+    {
+      "id":30,
+      "title":"Cha Eun-woo",
+      "image":"https://jamurkuping.github.io/image/chaeunwoo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.chaeunwoo"
+    },
+    {
+      "id":31,
+      "title":"Jennie",
+      "image":"https://jamurkuping.github.io/image/blackpinkjennie.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.blackpinkjennie"
+    },
+    {
+      "id":32,
+      "title":"Jisoo",
+      "image":"https://jamurkuping.github.io/image/blackpinkjisoo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.blackpinkjisoo"
+    },
+    {
+      "id":33,
+      "title":"Lisa",
+      "image":"https://jamurkuping.github.io/image/blackpinklisa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.blackpinklisa"
+    },
+    {
+      "id":34,
+      "title":"Rose",
+      "image":"https://jamurkuping.github.io/image/blackpinkrose.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.blackpinkrose"
+    },
+    {
+      "id":35,
+      "title":"Ronaldo",
+      "image":"https://jamurkuping.github.io/image/cristianoronaldo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.cristianoronaldo"
+    },
+    {
+      "id":36,
+      "title":"Messi",
+      "image":"https://jamurkuping.github.io/image/lionelmessi.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.lionelmessi"
+    },
+    {
+      "id":37,
+      "title":"Atta Halilintar",
+      "image":"https://jamurkuping.github.io/image/attahalilintar.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.attahalilintar"
+    },
+    {
+      "id":38,
+      "title":"Ria Ricis",
+      "image":"https://jamurkuping.github.io/image/riaricis.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.riaricis"
+    },
+    {
+      "id":39,
+      "title":"Baim Wong",
+      "image":"https://jamurkuping.github.io/image/baimwong.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.baimwong"
+    },
+    {
+      "id":40,
+      "title":"Betrand Peto",
+      "image":"https://jamurkuping.github.io/image/betrandpetoonsu.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.betrandpetoonsu"
+    },
+    {
+      "id":41,
+      "title":"Bella Poarch",
+      "image":"https://jamurkuping.github.io/image/bellapoarch.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.bellapoarch"
+    },
+    {
+      "id":42,
+      "title":"Billie Eilish",
+      "image":"https://jamurkuping.github.io/image/billieeilish.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.billieeilish"
+    },
+    {
+      "id":43,
+      "title":"Charli D'Amelio",
+      "image":"https://jamurkuping.github.io/image/charlidamelio.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.charlidamelio"
+    },
+    {
+      "id":44,
+      "title":"Dixie D'Amelio",
+      "image":"https://jamurkuping.github.io/image/dixiedamelio.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.dixiedamelio"
+    },
+    {
+      "id":45,
+      "title":"Domelipa",
+      "image":"https://jamurkuping.github.io/image/dominikdomelipa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.dominikdomelipa"
+    },
+    {
+      "id":46,
+      "title":"Zoe Abbas",
+      "image":"https://jamurkuping.github.io/image/zoeabbasjackson.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.zoeabbasjackson"
+    },
+    {
+      "id":47,
+      "title":"Cinta Brian",
+      "image":"https://jamurkuping.github.io/image/cintabrian.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.cintabrian"
+    },
+    {
+      "id":48,
+      "title":"NotNot",
+      "image":"https://jamurkuping.github.io/image/evosnotnot.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.evosnotnot"
+    },
+    {
+      "id":49,
+      "title":"FrostDiamond",
+      "image":"https://jamurkuping.github.io/image/frostdiamondfake.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.frostdiamondfake"
+    },
+    {
+      "id":50,
+      "title":"Upin Ipin",
+      "image":"https://jamurkuping.github.io/image/upinipinfake.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.upinipinfake"
+    },
+    {
+      "id":51,
+      "title":"Boboiboy",
+      "image":"https://jamurkuping.github.io/image/boboiboyfakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.boboiboyfakecall"
+    },
+    {
+      "id":52,
+      "title":"Sakura School",
+      "image":"https://jamurkuping.github.io/image/sakuraschoolsimulatorfakevideocall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.sakuraschoolsimulatorfakevideocall"
+    },
+    {
+      "id":53,
+      "title":"Married",
+      "image":"https://jamurkuping.github.io/image/sakuraschoolsimulatormenikah.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.sakuraschoolsimulatormenikah"
+    },
+    {
+      "id":54,
+      "title":"Props Id",
+      "image":"https://jamurkuping.github.io/image/sakuraschoolsimulatorpropsid.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.sakuraschoolsimulatorpropsid"
+    },
+    {
+      "id":55,
+      "title":"Wobbly Life",
+      "image":"https://jamurkuping.github.io/image/wobblylifefakecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.wobblylifefakecall"
+    }
+  ]
+
+}
